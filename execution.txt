@@ -1,0 +1,26 @@
+Execution Steps:
+
+ Unzip the folder: Capstone_Project-HPPCS01.zip
+
+ Open a terminal or Colab environment and navigate to the project directory:
+   cd Capstone_Project-HPPCS01
+
+ Install dependencies:
+   pip install -r requirements.txt
+
+ Run the project in Gradio UI mode:
+   python main.py --ui_mode gradio
+
+ (Alternative) Run the project in CLI mode:
+   python main.py --ui_mode cli
+
+ When using UI mode:
+   - Upload an unstructured resume (.pdf / .docx / .txt)
+   - Paste the Job Description text
+   - Click "Generate Tailored Resume"
+   - Download the generated ATS-friendly resume as a PDF
+
+ All generated resumes will be saved in the same directory as:
+   ./tailored_resume_<name>.pdf
+
+ The ATS score comparison will also be displayed in the Gradio interface.

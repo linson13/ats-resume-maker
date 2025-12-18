@@ -1,0 +1,18 @@
+
+#  Install Transformers and PyTorch
+pip install transformers==4.42.4
+pip install torch
+
+#  Install Gradio for UI
+pip install gradio
+
+#  Install PDF and Document Libraries
+pip install reportlab
+pip install PyPDF2
+pip install python-docx
+
+#  Install Data Handling Libraries
+pip install pandas
+pip install numpy
+pip install regex
+
