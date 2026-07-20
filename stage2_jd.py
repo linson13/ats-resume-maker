@@ -3,7 +3,8 @@
 # ==========================================================
 
 import re, json, os
-from Codebase import config, utils
+import config
+import utils
 
 
 def extract_jd_data_rulebased(jd_text: str):

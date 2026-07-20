@@ -4,7 +4,7 @@
 # ==========================================================
 
 import os, json
-from Codebase import config
+import config
 from docx import Document
 from PyPDF2 import PdfReader
 

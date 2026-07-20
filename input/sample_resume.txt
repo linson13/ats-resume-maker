@@ -1,0 +1,15 @@
+Linson
+Email: linson@example.com | Phone: 9999999999 | Location: Chennai, India
+
+Education:
+B.Tech in Computer Science, SRM Institute of Science and Technology
+
+Skills:
+Python, SQL, FastAPI, Machine Learning, Git
+
+Experience:
+Junior SQL Developer - working on reporting queries for an LMS platform
+
+Projects:
+Built a real-time voice AI assistant using FastAPI, Whisper, and RAG
+Built AgeGuard, an age estimation tool using OpenCV
